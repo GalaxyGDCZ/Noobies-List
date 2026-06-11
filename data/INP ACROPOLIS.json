@@ -1,0 +1,22 @@
+{
+    "id": 126392768,
+    "name": "INP ACROPOLIS",
+    "author": "GalaxyGDCZ",
+    "creators": ["GalaxyGDCZ"],
+    "verifier": "GalaxyGDCZ",
+    "verification": "https://youtu.be/ZjI7FeVKgCE",
+    "percentToQualify": 100,
+    "password":"Copyable",
+    "records": [
+        {
+            "user": "landfiner",
+            "link": "https://youtu.be/t8--Bmvez4U",
+            "percent": 100
+        },
+         {
+            "user": "Ohvee",
+            "link": "https://youtu.be/r5tYmAv5VT0",
+            "percent": 100
+        }
+    ]
+}
