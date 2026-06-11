@@ -1,0 +1,24 @@
+{
+    "id": 109463517,
+    "name": "Easy Demon Travel II",
+    "author": "Theripluck",
+    "creators": [
+        "Theripluck"
+    ],
+    "verifier": "GalaxyGDCZ",
+    "verification": "https://www.youtube.com/watch?v=yZDHP6YQS8I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      },
+        {
+            "user": "ohvee",
+            "link": "https://youtu.be/WvLERhDzRCg?si=rgJDsaN9SauhA_jg",
+            "percent": 100 
+      }
+   ]
+}
