@@ -1,0 +1,22 @@
+{
+    "id": "108780629",
+    "name": "Sweet Dreams",
+    "author": "TheRipluck",
+    "creators": ["TheRipluck", "GalaxyGDCZ"],
+    "verifier": "luky1515",
+    "verification": "https://youtu.be/rtjansBHhAs",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+         {
+            "user": "Ohvee",
+            "link": "https://youtu.be/rtjansBHhAs",
+            "percent": 100
+        },         
+        {
+            "user": "Micaten1655",
+            "link": "https://www.youtube.com/watch?v=v21S55Z0bV8&t=402s",
+            "percent": 100
+        }
+    ]
+}
