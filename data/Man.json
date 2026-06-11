@@ -1,0 +1,27 @@
+{
+    "id": "127696993",
+    "name": "Man",
+    "author": "therealkimon",
+    "creators": ["therealkimon"],
+    "verifier": "therealkimon",
+    "verification": "https://youtu.be/7GWVw0G8Svc",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+  {
+        "user": "Lauchzwiebel",
+        "link": "https://youtu.be/hzoa-ZRGlCE",
+        "percent": 100
+        },
+        {
+        "user": "Ohvee",
+        "link": "https://youtu.be/yqWQGJon0FE",
+        "percent": 100
+        },
+         {
+        "user": "veeverkac",
+        "link": "https://medal.tv/games/geometry-dash/clips/lqDcJT6IBZjkls6ek?invite=cr-MSx4NkssMjgzMzk3NDMz",
+        "percent": 100
+        }
+    ]
+}
