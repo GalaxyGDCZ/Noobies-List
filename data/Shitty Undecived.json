@@ -1,0 +1,39 @@
+{
+    "id": 117722592,
+    "name": "shitty undecived",
+    "author": "gamerthing48",
+    "creators": [
+        "gamerthing48"
+    ],
+    "verifier": "gamerthing48",
+    "verification": "https://www.youtube.com/watch?v=IYRThYPn0U8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "luky1515",
+            "link": "https://youtu.be/4_1y2rLF3qo",
+            "percent": 100
+        },
+        {
+            "user": "theripluck",
+            "link": "https://youtu.be/q-URqFzKm5I",
+            "percent": 100
+         },
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      },
+        {
+            "user": "Ohvee",
+            "link": "https://youtu.be/CbWsQXhATmc",
+            "percent": 100
+        },
+         {
+            "user": "Nice0nee",
+            "link": "https://www.youtube.com/watch?v=L28VgawJsaw",
+            "percent": 100
+        }
+    ]
+}
