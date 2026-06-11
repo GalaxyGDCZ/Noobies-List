@@ -1,18 +1,44 @@
 {
-    "id": 108564707,
+    "id": "108564707",
     "name": "Autistic Jumper",
     "author": "GalaxyGDCZ",
-    "creators": ["GalaxyGDCZ"],
+    "creators": [
+        "GalaxyGDCZ"
+    ],
     "verifier": "GalaxyGDCZ",
-    "verification": "https://www.youtube.com/watch?v=WSHDIaf8ejE&t=5s",
-    "percentToQualify": "100",
+    "verification": "https://www.youtube.com/watch?v=WSHDIaf8ejE",
+    "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
+            "user": "Nuxer360",
+            "link": "https://youtu.be/eUjkLBr8L0A?si=04N5oukGhuZMByXd",
+            "percent": 100
+        },
+        {
+            "user": "Zenosis",
+            "link": "https://youtu.be/Pr9yZK_ZcGQ",
+            "percent": 100
+        },
+        {
+            "user": "SimonGames12",
+            "link": "https://vm.tiktok.com/ZNdFT4xmK/",
+            "percent": 100
+        },
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      },
+ {           
             "user": "Luky1515",
-            "link": "https://www.youtube.com/watch?v=Rrgx29HL4Cw",
-            "percent": 100,
-            "hz": 144
+            "link": "https://youtu.be/Rrgx29HL4Cw",
+            "percent": 100
+        },
+        {
+            "user": "Ohvee",
+            "link": "https://youtu.be/YLh0rarp4vo",
+            "percent": 100
         }
-    ]
+            ]
 }
