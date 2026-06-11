@@ -1,0 +1,34 @@
+{
+    "id": "116332472",
+    "name": "Majestad Oscura",
+    "author": "GalaxyGDCZ",
+    "creators": [
+        "GalaxyGDCZ"
+    ],
+    "verifier": "GalaxyGDCZ",
+    "verification": "https://youtu.be/oz98vjLZ71Q",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Micaten1655",
+            "link": "https://www.youtube.com/watch?v=FzXdGU93Gxc&ab_channel=MicatenClips%5BGD%5D",
+            "percent": 100
+        },
+        {
+            "user": "Theripluck",
+            "link": "https://www.youtube.com/watch?v=Oi6qAfEF6Ww",
+            "percent": 100
+  },
+        {
+            "user": "Luky1515",
+            "link": "https://youtu.be/n2cr0loVQfQ",
+            "percent": 100
+        },
+        {
+            "user": "Ohvee",
+            "link": "https://youtu.be/OhSKOr6A7mc",
+            "percent": 100
+        }
+    ]
+}
