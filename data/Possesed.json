@@ -1,0 +1,29 @@
+{
+    "id": "116406774",
+    "name": "Possesed",
+    "author": "gamerthing48",
+    "creators": [
+        "gamerthing48"
+    ],
+    "verifier": "gamerthing48",
+    "verification": "https://www.youtube.com/watch?v=UjQ_EHcqO6s",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "GalaxyGDCz",
+            "link": "https://www.youtube.com/watch?v=i1Ht7zmQ0EM",
+            "percent": 100
+        },
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      },
+          {
+            "user": "Ohvee",
+            "link": "https://youtu.be/ysKrb9x7_lU",
+            "percent": 100 
+      }
+    ]
+}
