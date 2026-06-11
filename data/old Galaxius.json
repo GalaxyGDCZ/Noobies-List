@@ -1,0 +1,29 @@
+{
+    "id": 114695038,
+    "name": "old Galaxius",
+    "author": "GalaxyGDCZ",
+    "creators": [
+        "GalaxyCatCz"
+    ],
+    "verifier": "GalaxyGDCz",
+    "verification": "https://www.youtube.com/watch?v=lCE-slpNsKw&t=105s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zenosis",
+            "link": "https://youtu.be/uMTJS_eNcEU",
+            "percent": 100
+        },
+        {
+            "user": "gamerthing48",
+            "link": "https://www.youtube.com/watch?v=yG_00k3rDFs",
+            "percent": 100
+        },
+        {
+            "user": "simongames12",
+            "link": "https://youtu.be/Zn-_iwaS66I?si=yRp3WPd41WEhk0Lb",
+            "percent": 100
+        }
+    ]
+}
