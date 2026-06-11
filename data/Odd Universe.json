@@ -1,0 +1,49 @@
+{
+    "id": "116046326",
+    "name": "Odd Universe",
+    "author": "CrimsonBIOME",
+    "creators": [
+        "CrimsonBIOME"
+    ],
+    "verifier": "CrimsonBIOME",
+    "verification": "https://youtu.be/aOqPn18iOPo",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Zenosis",
+            "link": "https://youtu.be/uB4OsHf8xBs",
+            "percent": 100
+        },
+        {
+            "user": "luky1515",
+            "link": "https://youtu.be/2EnA7dA4kqs",
+            "percent": 100
+        },
+        {
+            "user": "GalaxyGDCZ",
+            "link": "https://www.youtube.com/watch?v=gc-GZA9irA0",
+            "percent": 100
+        },
+        {
+            "user": "theripluck",
+            "link": "https://youtu.be/mW6SrmmCO28?si=SicnPh1Vj5Q9pfpn",
+            "percent": 100
+        },
+        {
+            "user": "Micaten1655",
+            "link": "https://www.youtube.com/watch?v=TOl3f5fDGqU&ab_channel=MicatenClips%5BGD%5D",
+            "percent": 100
+        },
+        {
+            "user": "filix115",
+            "link": "https://youtu.be/h3VdCBXVsVk",
+            "percent": 100
+        },
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      }
+    ]
+}
