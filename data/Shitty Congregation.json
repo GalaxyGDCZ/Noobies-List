@@ -1,0 +1,28 @@
+{
+    "id": "105362430",
+    "name": "Shitty Congregation",
+    "author": "theripluck",
+    "creators": ["theripluck"],
+    "verifier": "Micaten1655",
+    "verification": "https://www.youtube.com/watch?v=zNDa6Hg2XgE&t=1189s",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+      {
+            "user": "GalaxyCatCz",
+            "link": "https://www.youtube.com/watch?v=zNDa6Hg2XgE&t=1189s",
+            "percent": 100
+        },
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+        },
+        {
+    
+            "user": "Keinoya",
+            "link": "https://medal.tv/games/geometry-dash/clips/l4iTIsTuXJRTZEtaU?invite=cr-MSxWcmcsMjAxMzk2MTM1&v=215",
+            "percent": 100 
+        }
+    ]
+}
