@@ -1,0 +1,22 @@
+{
+    "id": "115496514",
+    "name": "Micaten Old Challenge",
+    "author": "GalaxyGDCz",
+    "creators": ["GalaxyGDCz"],
+    "verifier": "GalaxyGDCz",
+    "verification": "https://www.youtube.com/watch?v=OG0U8YWzzRA",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+ {           
+            "user": "luky1515",
+            "link": "https://youtu.be/xVB8s7PXwFM",
+            "percent": 100
+        },
+        {           
+            "user": "Ohvee",
+            "link": "https://youtu.be/8aAWGbtzkH4",
+            "percent": 100
+        }
+    ]
+}
