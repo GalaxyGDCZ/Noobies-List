@@ -1,0 +1,32 @@
+{
+    "id": "109865830",
+    "name": "Evil",
+    "author": "theripluck",
+    "creators": ["theripluck"],
+    "verifier": "Micaten1655",
+    "verification": "https://youtu.be/aOqPn18iOPo",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Zenosis",
+            "link": "https://youtu.be/BQ16lZrU3Dc",
+            "percent": 100
+        },
+      {
+            "user": "theripluck",
+            "link": "https://youtu.be/q-URqFzKm5I",
+            "percent": 100
+        },
+        {
+            "user": "Ohvee",
+            "link": "https://youtu.be/_EiDwcwXGWc",
+            "percent": 100
+        },
+        {
+            "user": "Nice0nee",
+            "link": "https://www.youtube.com/watch?v=JHKymNI_g2E",
+            "percent": 100
+        }
+    ]
+}
