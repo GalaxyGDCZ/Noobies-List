@@ -1,0 +1,22 @@
+{
+    "id": "112453502",
+    "name": "Its Be So Long",
+    "author": "theripluck",
+    "creators": ["theripluck"],
+    "verifier": "theripluck",
+    "verification": "https://youtu.be/aOqPn18iOPo",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "TheKroks",
+            "link": "https://www.youtube.com/watch?v=O5JL-tc2zvM&ab_channel=KroksGD",
+            "percent": 100 
+      },
+          {
+            "user": "Ohvee",
+            "link": "https://youtu.be/G0pzXKWL7mE",
+            "percent": 100 
+      }
+    ]
+}
